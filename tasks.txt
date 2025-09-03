@@ -2,4 +2,5 @@
 ● Complete Git lesson
 ● Review HTML basics
 ● Start JavaScript exercises
-I am going 
+
+This is branch one with its branch 1 changes 
